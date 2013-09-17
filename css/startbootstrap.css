@@ -1,0 +1,107 @@
+/* ------------------- */
+/* WARNING! IMPORTANT! */
+/* ------------------- */
+/* START BOOTSTRAP CUSTOM CSS - USE THE CUSTOM.CSS FILE INSTEAD OF THIS ONE IF YOU ARE LOOKING TO USE THE HTML STARTER TEMPLATES - THIS ISN'T THE FILE YOU'RE LOOKING FOR, MOVE ALONG */
+
+body {
+  margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+/* Top nav and header */
+
+.startbootstrap-nav {
+  background-color: #b84d45;
+  border: none;
+}
+
+.startbootstrap-nav .navbar-brand {
+  color: #fff;
+}
+
+.startbootstrap-nav .navbar-nav > li > a,
+.masthead a {
+  color: #fbdedb;
+}
+
+.startbootstrap-nav .navbar-nav > li > a:hover {
+  color: #fff;
+  background-color: #a5423b;
+}
+
+.startbootstrap-nav .navbar-nav > .active > a,
+.startbootstrap-nav .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #a5423b;
+}
+
+.startbootstrap-nav .navbar-toggle {
+  border-color: #b84d45;
+}
+
+.startbootstrap-nav .navbar-toggle:hover {
+  background-color: #b84d45;
+  border-color: #b84d45;
+}
+
+.startbootstrap-nav .navbar-collapse {
+  border: none;
+}
+
+.startbootstrap-nav .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+/* Homepage elements */
+
+.masthead {
+  background-color: #b84d45;
+  color: #fff;
+  position: relative;
+  padding: 7em 0;
+  text-align: center;
+}
+
+.masthead h1 {
+  font-size: 5em;
+  line-height: 1;
+}
+
+#social {
+  padding-top: 5em;
+}
+
+.intro-marketing {
+  background-color: #fbdedb;
+  padding: 5em 0;
+}
+
+.templates {
+  padding: 3em 0;
+  text-align: center;
+}
+
+.preview {
+  padding: 1em 0 3em;
+}
+
+footer {
+  text-align: left;
+  padding: 3em 0;
+}
+
+@media (max-width: 991px) {
+
+.masthead {
+  padding: 1em 0;
+}
+
+.masthead h1 {
+  font-size: 3em;
+}
+
+.intro-marketing {
+  padding: 3em 0;
+}
+
+
+}
